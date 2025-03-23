@@ -1,5 +1,6 @@
 package com.eagletech.managerfile.ui.theme
 
+import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.Color
 
 val ColorD0BCFF = Color(0xFFD0BCFF)
@@ -18,3 +19,13 @@ val textDetailStorage = Color(0xFF0A7BCC)
 val textSeeAll = Color(0xFF0A7BCC)
 val iconAndTextBottomNav= Color(0xFF0791F8)
 val textFilter= Color(0xFF9CA3AF)
+val borderItemStorage= Color(0xFFF3F4F6)
+
+
+
+//val gradientLinearSwitchOff = Brush.linearGradient(
+//    colors = listOf(
+//        ColorCFD0E4,
+//        ColorCFD0E4
+//    )
+//)
